@@ -1,7 +1,7 @@
 <<<<<<< HEAD
 # Ignore all .env files in any subfolder
 **/.env
-**/.models
+**/.models/
 
 # Ignore all node_modules folders anywhere
 **/node_modules/
