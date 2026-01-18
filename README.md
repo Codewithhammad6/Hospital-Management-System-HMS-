@@ -4,6 +4,80 @@
 
 A comprehensive Hospital Management System built with React, Node.js, Express, and MongoDB. This system manages all hospital operations including patient registration, doctor appointments, lab tests, X-ray services, pharmacy management, and administrative functions.
 
+## 📸 Screenshots
+
+### **1. Persona Page**
+![Persona Page](./screenshots/1_parsona.png)
+*Secure login with role selection*
+
+### **2. SignUp Page**
+![SignUp Page](./screenshots/2_signup.png)
+*Secure login with role selection*
+
+### **3. Login Page**
+![Login Page](./screenshots/3_signin.png)
+*Secure login with role selection*
+
+### **4. Admin Dashboard**
+![Admin Dashboard](./screenshots/4_admin.png)
+*Complete system overview with statistics*
+
+### **5. Profile Page**
+![Profile Page](./screenshots/5_profile.png)
+*User profile management*
+
+### **6. Reception Dashboard**
+![Reception Dashboard](./screenshots/6_recep.png)
+*Patient registration form with automatic ID generation*
+
+### **7. Patient Appointment**
+![Patient Appointment](./screenshots/7_addPatient.png)
+*Patient appointment and registration management*
+
+### **8. Doctor Dashboard**
+![Doctor Dashboard](./screenshots/8_doctor.png)
+*Doctor interface with patient list and appointments*
+
+### **9. Laboratory Module**
+![Lab Interface](./screenshots/19_labrepo.png)
+*Lab test management with parameter entry*
+
+### **10. Laboratory Dashboard**
+![Lab Dashboard](./screenshots/15_labTest.png)
+*Laboratory test processing dashboard*
+
+### **11. Laboratory Records**
+![Lab Records](./screenshots/11_labRec.png)
+*Laboratory records and reports*
+
+### **12. X-Ray Dashboard**
+![X-Ray Dashboard](./screenshots/12_xray.png)
+*X-Ray test management with image upload*
+
+### **13. X-Ray Module**
+![X-Ray Interface](./screenshots/13_xrayCheck.png)
+*X-Ray examination and report generation*
+
+### **14. Pharmacy Dashboard**
+![Pharmacy Dashboard](./screenshots/16_pharma.png)
+*Medicine dispensing and inventory management*
+
+### **15. Pharmacy Module**
+![Pharmacy Module](./screenshots/17_pharmacyMed.png)
+*Pharmacy medicine management*
+
+### **16. Pharmacy Records**
+![Pharmacy Records](./screenshots/18_pharReco.png)
+*Pharmacy transaction records*
+
+### **17. Reports Dashboard**
+![Reports](./screenshots/14_patient.png)
+*Printable reports and patient records*
+
+
+
+
+
 ## 🏥 System Features
 
 ### **1. User Management**
@@ -137,75 +211,8 @@ hospital-management-system/
 - Print-friendly reports
 - Search and filter functionality
 
-## 📸 Screenshots
 
-### **1. Persona Page**
-![Persona Page](./screenshots/1_parsona.png)
-*Secure login with role selection*
 
-### **2. SignUp Page**
-![SignUp Page](./screenshots/2_signup.png)
-*Secure login with role selection*
-
-### **3. Login Page**
-![Login Page](./screenshots/3_signin.png)
-*Secure login with role selection*
-
-### **4. Admin Dashboard**
-![Admin Dashboard](./screenshots/4_admin.png)
-*Complete system overview with statistics*
-
-### **5. Profile Page**
-![Profile Page](./screenshots/5_profile.png)
-*User profile management*
-
-### **6. Reception Dashboard**
-![Reception Dashboard](./screenshots/6_recep.png)
-*Patient registration form with automatic ID generation*
-
-### **7. Patient Appointment**
-![Patient Appointment](./screenshots/7_addPatient.png)
-*Patient appointment and registration management*
-
-### **8. Doctor Dashboard**
-![Doctor Dashboard](./screenshots/8_doctor.png)
-*Doctor interface with patient list and appointments*
-
-### **9. Laboratory Module**
-![Lab Interface](./screenshots/19_labrepo.png)
-*Lab test management with parameter entry*
-
-### **10. Laboratory Dashboard**
-![Lab Dashboard](./screenshots/15_labTest.png)
-*Laboratory test processing dashboard*
-
-### **11. Laboratory Records**
-![Lab Records](./screenshots/11_labRec.png)
-*Laboratory records and reports*
-
-### **12. X-Ray Dashboard**
-![X-Ray Dashboard](./screenshots/12_xray.png)
-*X-Ray test management with image upload*
-
-### **13. X-Ray Module**
-![X-Ray Interface](./screenshots/13_xrayCheck.png)
-*X-Ray examination and report generation*
-
-### **14. Pharmacy Dashboard**
-![Pharmacy Dashboard](./screenshots/16_pharma.png)
-*Medicine dispensing and inventory management*
-
-### **15. Pharmacy Module**
-![Pharmacy Module](./screenshots/17_pharmacyMed.png)
-*Pharmacy medicine management*
-
-### **16. Pharmacy Records**
-![Pharmacy Records](./screenshots/18_pharReco.png)
-*Pharmacy transaction records*
-
-### **17. Reports Dashboard**
-![Reports](./screenshots/14_patient.png)
-*Printable reports and patient records*
 
 ## 🛠️ Installation & Setup
 
