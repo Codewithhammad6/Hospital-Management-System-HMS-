@@ -260,26 +260,6 @@ Start frontend development server:
 npm start
 ```
 
-## 🧪 Testing Credentials
-
-### **Test Users:**
-```
-Admin:
-Email: admin@hms.com
-Password: admin123
-
-Doctor:
-Email: doctor@hms.com
-Password: doctor123
-
-Lab Technician:
-Email: lab@hms.com
-Password: lab123
-
-Pharmacy:
-Email: pharmacy@hms.com
-Password: pharmacy123
-```
 
 ## 📱 API Endpoints
 
@@ -399,8 +379,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 📞 Support
 
-For support, email: support@hms.com
-Or create an issue in the GitHub repository.
+For support, email: hammadp5087@gmail.com
 
 ---
 
